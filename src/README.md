@@ -14,6 +14,3 @@ A full-featured movie search app using the OMDB API. Search by title/keyword, fi
 
 ## Tech
 React, React Router, TailwindCSS, JavaScript, OMDB API
-
-## Env
-Create `.env`:
